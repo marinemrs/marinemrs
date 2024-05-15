@@ -84,7 +84,7 @@ if (isset($erreur)) {
 <?php
 }
 ?>
-			</form>
+			
 		</div>
 	</body>
 </html>
